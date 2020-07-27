@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-extension UIBarButtonItem {
+public extension UIBarButtonItem {
     
     /// 自定义返回按钮（黑色）
     ///

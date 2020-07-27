@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-extension UIScreen {
+public extension UIScreen {
     
     /// 横向比例
     ///

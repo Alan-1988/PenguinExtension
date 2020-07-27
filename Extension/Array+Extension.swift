@@ -8,7 +8,7 @@
 
 import Foundation
 
-extension Array {
+public extension Array {
     /// 下标方法处理数组越界(任意类型)
     subscript (safe index: Int) -> Element? {
         return (0..<count).contains(index) ? self[index] : nil

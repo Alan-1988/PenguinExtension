@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-extension UIDevice {
+public extension UIDevice {
     
     /// 设备类型
     /// 苹果设备类型说明 ： https://www.theiphonewiki.com/wiki/Models

@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-extension String {
+public extension String {
     
     /// 去掉前后的空格
     func clearSpace() -> String {

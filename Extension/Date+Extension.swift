@@ -7,7 +7,7 @@
 
 import Foundation
 
-extension Date {
+public extension Date {
     
     /// 获取时间戳字符串（秒）
     func timestampStringS() -> String {

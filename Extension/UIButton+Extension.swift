@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-extension UIButton {
+public extension UIButton {
     
     /// 自定义图片的按钮
     class func createButton(target:Any,

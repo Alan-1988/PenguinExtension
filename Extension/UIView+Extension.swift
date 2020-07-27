@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-extension UIView {
+public extension UIView {
     
     //MARK: 设置 UIView 坐标系取值
     

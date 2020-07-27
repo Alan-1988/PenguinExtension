@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-extension UIImage {
+public extension UIImage {
     
     /// 创建纯色图片
     class func createImage(color:UIColor, size:CGSize) -> UIImage? {

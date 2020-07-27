@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-extension UIFont {
+public extension UIFont {
     
     /// 按钮字体
     class func buttonFont() -> UIFont {

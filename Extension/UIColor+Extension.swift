@@ -41,7 +41,7 @@ let color_white2 = #colorLiteral(red: 0.921431005, green: 0.9214526415, blue: 0.
 let color_tableView_background = #colorLiteral(red: 0.9489166141, green: 0.9490789771, blue: 0.9489063621, alpha: 1)
 
 //MARK: 颜色扩展
-extension UIColor {
+public extension UIColor {
     
     //MARK: 随机颜色
     /// 随机颜色

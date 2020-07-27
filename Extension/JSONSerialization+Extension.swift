@@ -7,7 +7,7 @@
 
 import Foundation
 
-extension JSONSerialization {
+public extension JSONSerialization {
     
     
     /// 字典转JSON字符型

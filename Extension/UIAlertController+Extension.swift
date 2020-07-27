@@ -8,7 +8,7 @@
 import Foundation
 import UIKit
 
-extension UIAlertController {
+public extension UIAlertController {
     
     /// 默认以window.根视图控制器呈现
     ///
