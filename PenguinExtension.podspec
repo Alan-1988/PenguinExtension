@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "PenguinExtension"
-  spec.version      = "1.1.0"
+  spec.version      = "1.1.1"
   spec.summary      = "测试"
   spec.description  = <<-DESC
                         测试测试

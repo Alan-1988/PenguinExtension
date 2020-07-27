@@ -19,7 +19,6 @@
 		AA56CE4624CECFB100C44618 /* UIDevice+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA56CE3724CECFB100C44618 /* UIDevice+Extension.swift */; };
 		AA56CE4724CECFB100C44618 /* UIAlertController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA56CE3824CECFB100C44618 /* UIAlertController+Extension.swift */; };
 		AA56CE4824CECFB100C44618 /* UIFont+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA56CE3924CECFB100C44618 /* UIFont+Extension.swift */; };
-		AA56CE4924CECFB100C44618 /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA56CE3A24CECFB100C44618 /* UIColor+Extension.swift */; };
 		AA56CE4A24CECFB100C44618 /* Date+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA56CE3B24CECFB100C44618 /* Date+Extension.swift */; };
 		AA56CE4B24CECFB100C44618 /* UILabel+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA56CE3C24CECFB100C44618 /* UILabel+Extension.swift */; };
 		AA56CE4C24CECFB100C44618 /* UIButton+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA56CE3D24CECFB100C44618 /* UIButton+Extension.swift */; };
@@ -69,7 +68,6 @@
 		AA56CE3724CECFB100C44618 /* UIDevice+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIDevice+Extension.swift"; sourceTree = "<group>"; };
 		AA56CE3824CECFB100C44618 /* UIAlertController+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIAlertController+Extension.swift"; sourceTree = "<group>"; };
 		AA56CE3924CECFB100C44618 /* UIFont+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIFont+Extension.swift"; sourceTree = "<group>"; };
-		AA56CE3A24CECFB100C44618 /* UIColor+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
 		AA56CE3B24CECFB100C44618 /* Date+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Date+Extension.swift"; sourceTree = "<group>"; };
 		AA56CE3C24CECFB100C44618 /* UILabel+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UILabel+Extension.swift"; sourceTree = "<group>"; };
 		AA56CE3D24CECFB100C44618 /* UIButton+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIButton+Extension.swift"; sourceTree = "<group>"; };
@@ -168,7 +166,6 @@
 				AA56CE3724CECFB100C44618 /* UIDevice+Extension.swift */,
 				AA56CE3824CECFB100C44618 /* UIAlertController+Extension.swift */,
 				AA56CE3924CECFB100C44618 /* UIFont+Extension.swift */,
-				AA56CE3A24CECFB100C44618 /* UIColor+Extension.swift */,
 				AA56CE3B24CECFB100C44618 /* Date+Extension.swift */,
 				AA56CE3C24CECFB100C44618 /* UILabel+Extension.swift */,
 				AA56CE3D24CECFB100C44618 /* UIButton+Extension.swift */,
@@ -330,7 +327,6 @@
 				AA56CE4624CECFB100C44618 /* UIDevice+Extension.swift in Sources */,
 				AA56CE5024CECFB100C44618 /* UIScreen+Extension.swift in Sources */,
 				AA56CE0624CECF2000C44618 /* SceneDelegate.swift in Sources */,
-				AA56CE4924CECFB100C44618 /* UIColor+Extension.swift in Sources */,
 				AA56CE4A24CECFB100C44618 /* Date+Extension.swift in Sources */,
 				AA56CE5324CECFB100C44618 /* Float+Extension.swift in Sources */,
 				AA56CE5224CECFB100C44618 /* UIBarButtonItem+Extension.swift in Sources */,
