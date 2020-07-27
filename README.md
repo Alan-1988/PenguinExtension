@@ -6,6 +6,6 @@
 
 ```ruby
 target 'MyApp' do
-  pod 'PenguinExtension', '~> 1.1'
+  pod 'PenguinExtension
 end
 ```
