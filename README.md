@@ -5,5 +5,5 @@
 ## CocoaPods
 
 ```ruby
-pod 'PenguinExtension
+pod 'PenguinExtension'
 ```
