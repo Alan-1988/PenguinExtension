@@ -5,7 +5,5 @@
 ## CocoaPods
 
 ```ruby
-target 'MyApp' do
-  pod 'PenguinExtension
-end
+pod 'PenguinExtension
 ```
