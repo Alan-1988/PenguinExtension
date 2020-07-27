@@ -2,13 +2,13 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "PenguinExtension"
-  spec.version      = "1.0.8"
+  spec.version      = "1.0.9"
   spec.summary      = "测试"
   spec.description  = <<-DESC
                         测试测试
                    DESC
   spec.homepage     = "https://github.com/Alan-1988/PenguinExtension.git"
-  spec.license      = "MIT (example)"
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author             = { "Penguin" => "alan_1988@foxmail.com" }
   spec.platform     = :ios, "10.0"
   spec.ios.deployment_target = "10.0"
